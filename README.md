@@ -1,4 +1,7 @@
-# mattiamatrix.github.io
+
+<h1 align="center"> Hello, I'm Mattia</h1>
+<h3 align="center">🚀 Data Engineer 🚀</h3>
 
 
-Getting started with GitHub Pages: https://docs.github.com/en/github/working-with-github-pages/getting-started-with-github-pages
+## Some Statistics About Me
+![Mattia's github stats](https://github-readme-stats.vercel.app/api?username=mattiamatrix&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=blue-green)<br>
